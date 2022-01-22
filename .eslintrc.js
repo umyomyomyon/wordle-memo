@@ -32,6 +32,10 @@ module.exports = {
         namedComponents: "arrow-function",
       },
     ],
+    "prefer-destructuring": 0,
+    "react/jsx-no-useless-fragment": 0,
+    "react/prop-types": 0,
+    "react/no-array-index-key": 0,
     "import/extensions": [
       "error",
       {
